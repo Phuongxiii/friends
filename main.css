@@ -49,6 +49,7 @@
     color: #221b11;
     background-color: #fd9090;
     height: 120px;
+    max-width: 20px;
     border-radius:10px;
     box-shadow: #221b11;
     width: 400px;
